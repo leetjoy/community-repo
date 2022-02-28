@@ -1,11 +1,3 @@
-# Beta Operations Working Group Report - 2 (21.02.2022 - 28.02.2022) 
-## Marketing Lead : _leet_joy_
-
-- Pre-proposal Discussion https://testnet.joystream.org/#/forum/threads/949
-- Lead hiring proposal https://testnet.joystream.org/#/proposals/1135
-- Working group application thread https://testnet.joystream.org/#/forum/threads/944
-### Report:
-This is the 2nd report for the Beta Operations Working Group. 
 ### Group# Beta Operations Working Group Report - 2 (21.02.2022 - 28.02.2022) 
 ## Marketing Lead : _leet_joy_
 
