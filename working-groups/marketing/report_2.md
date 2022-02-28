@@ -6,6 +6,14 @@
 - Working group application thread https://testnet.joystream.org/#/forum/threads/944
 ### Report:
 This is the 2nd report for the Beta Operations Working Group. 
+### Group# Beta Operations Working Group Report - 2 (21.02.2022 - 28.02.2022) 
+## Marketing Lead : _leet_joy_
+
+- Pre-proposal Discussion https://testnet.joystream.org/#/forum/threads/949
+- Lead hiring proposal https://testnet.joystream.org/#/proposals/1135
+- Working group application thread https://testnet.joystream.org/#/forum/threads/944
+### Report:
+This is the 2nd report for the Beta Operations Working Group. 
 ### Group
 | Worker ID | Name | Time | Language | Paid | Discord ID            |   
 | --------- | ----------- | ---------------- | -------- | ---------- | ---------------- |  
@@ -26,7 +34,8 @@ During this reporting period, 4 applicants were hired: kira_skipper,  andybut,  
 @kate_fm, @marat_mu, @shtihmas, @igrex, @andybut - was working on their tasks and contributed valuable information during discussion.
 
 ### Tasks & Achievements
-List of all WG tasks can be found here - https://docs.google.com/spreadsheets/d/1x12bAujENkCSMFVpegQQ-ZRS-JAqlPN4pT27VIqiY7c/edit?usp=sharing
+List of all WG tasks can be found here - https://docs.google.com/spreadsheets/d/1x12bAujENkCSMFVpegQQ-ZRS-JAqlPN4pT27VIqiY7c/edit?usp=sharing  
+
 Past week WG was focused on tasks below.
 
 | Task ID | Name | Task | Progress | Estimate reward* | Info            |   
@@ -48,8 +57,8 @@ Additional payments will be distributed in case of approval by council.
 During this reporting period there were no active advertising campaigns.  
 WG started to developing KEY list for Google Ads. The first target audience - content makers from youtube who want to increase their earnings.
 ### Weekly Summary
-High community interest to contribute in marketing - 4 new workers hired.
+High community interest to contribute in marketing - 4 new workers hired.  
 Working group continue work on onboarding content (promos, guides).  
-There were many discussions and research done on overall marketing and Joystream possible competitors (decentralized media platforms). Research work is ongoing and summary will be published when significant amount of information will be collected by the working group.
-New role was introduced and approved by council - Beta WG Deputy (proposal https://testnet.joystream.org/#/proposals/1199). 
+There were many discussions and research done on overall marketing and Joystream possible competitors (decentralized media platforms). Research work is ongoing and summary will be published when significant amount of information will be collected by the working group.  
+New role was introduced and approved by council - Beta WG Deputy (proposal https://testnet.joystream.org/#/proposals/1199).  
 During this reporting period total of 30$ were paid to the group workers.
